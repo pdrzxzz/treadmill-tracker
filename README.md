@@ -2,5 +2,5 @@
 Fixed speed, increasing time.  
 | Date  | Speed | Time  |
 |-------|-------|-------|
-| 29/08 | 5km/h | 30min |
+| 29/08 | 6km/h | 30min |
 |       |       |       |
